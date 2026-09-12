@@ -1,5 +1,3 @@
-# Csharp-Expense-tracker
-
 using System;
 using System.Collections.Generic;
 using System.Threading;
