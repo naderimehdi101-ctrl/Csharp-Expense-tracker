@@ -1,5 +1,4 @@
 # Csharp-Expense-tracker
-Expense tracking code
 
 using System;
 using System.Collections.Generic;
